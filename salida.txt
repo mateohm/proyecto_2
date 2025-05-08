@@ -1,0 +1,2 @@
+Resultado del análisis:
+<2,15> Error sintáctico: paréntesis '(' sin cerrar

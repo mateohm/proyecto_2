@@ -1,0 +1,14 @@
+<id,x,1,1>
+<igual,=,1,3>
+<numero,2,1,5>
+<for,for,2,1>
+<id,i,2,5>
+<in,in,2,7>
+<id,range,2,10>
+<par_izq,(,2,15>
+<id,x,2,16>
+<dos_puntos,:,2,17>
+<print,print,3,2>
+<par_izq,(,3,7>
+<cadena,"si",3,8>
+<par_der,),3,12>
